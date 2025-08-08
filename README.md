@@ -14,23 +14,32 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-# 👋 Hi, I'm Tal Miron
-
-I'm a self-taught full-stack developer passionate about building efficient, real-world systems.  
-I enjoy solving complex problems and creating practical tools—from school and military automation to public-facing apps.
+# Tal Miron
 
 ---
 
-## 💻 Technologies & Skills
+## 📫 Contact Me
+
+- LinkedIn: [linkedin.com/in/your-link](https://linkedin.com/in/your-link)
+- Email: taltaltal.mi@gmail.com
+- English CV  - Hebrew CV
+---
+
+I'm a self-taught fullstack developer passionate about building efficient systems and solving real world problems with technology.
+I enjoy solving complex problems and creating practical & creative tools. From automating workflows to creating apps- I aim to build things that matter.
+
+---
+
+## Skills
 
 - **Languages**: Java, Python, C#, SQL
-- **Frameworks & Tools**: Flask, VSTO (Office Add-ins), Android SDK
-- **DevOps & Platforms**: Git, Linux (Red Hat), Bash scripting
-- **Domains**: Automation, system architecture, backend APIs, Minecraft modding, tutoring
+- **Frameworks**: Flask, VSTO (Office Add-ins), Android SDK
+- **Platforms**: Git, Linux
+- **Others**: Automation, system architecture, backend APIs, published games, tutoring
 
 ---
 
-## 🚀 Featured Projects
+## Projects
 
 - 🎮 [**Minecraft Mod – Tech Expansion**](https://github.com/yourusername/tech-expansion)  
   A mod adding automation and resource systems; downloaded over 30,000 times by the community.
@@ -43,22 +52,3 @@ I enjoy solving complex problems and creating practical tools—from school and 
 
 - ⚙️ [**Python Automation Scripts**](https://github.com/yourusername/sysmon-scripts)  
   Handy tools for Linux servers — log rotation, monitoring, scheduling, backups.
-
----
-
-## 🎓 Teaching & Mentorship
-
-- 👨‍🏫 Private tutor in computer science and software development
-- Helped students prepare for exams, build projects, and understand core CS principles
-
----
-
-## 📫 Contact Me
-
-- GitHub: [@tal-miron](https://github.com/tal-miron)
-- LinkedIn: [linkedin.com/in/your-link](https://linkedin.com/in/your-link)
-- Email: your.email@example.com
-
----
-
-> “Code is a tool. Understanding the problem is the real craft.”
