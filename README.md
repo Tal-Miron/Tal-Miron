@@ -13,7 +13,6 @@
 - LinkedIn: [linkedin.com/in/tal-miron-7447b4309](linkedin.com/in/tal-miron-7447b4309)
 - Email: taltaltal.mi@gmail.com
 - English CV  - Hebrew CV
----
 
 I'm a self-taught fullstack developer passionate about building efficient systems and solving real world problems with technology.
 I enjoy solving complex problems and creating practical & creative tools. 
