@@ -1,31 +1,23 @@
 
 <!--
 **Tal-Miron/Tal-Miron** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
 -->
+
+
 # Hi, I'm Tal
 
 ---
 
-## 📫 Contact Me
+## Contact Me
 
-- LinkedIn: [linkedin.com/in/your-link](https://linkedin.com/in/your-link)
+- LinkedIn: [linkedin.com/in/tal-miron-7447b4309](linkedin.com/in/tal-miron-7447b4309)
 - Email: taltaltal.mi@gmail.com
 - English CV  - Hebrew CV
 ---
 
 I'm a self-taught fullstack developer passionate about building efficient systems and solving real world problems with technology.
-I enjoy solving complex problems and creating practical & creative tools. From automating workflows to creating apps- I aim to build things that matter.
+I enjoy solving complex problems and creating practical & creative tools. 
+From automating workflows to creating apps- I aim to build things that matter.
 
 ---
 
