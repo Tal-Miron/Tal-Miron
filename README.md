@@ -37,6 +37,19 @@ From automating workflows to creating apps- I aim to build things that matter.
 
 - **Others**: Automation, system architecture, backend APIs, published games, tutoring
 
+
+
+Military Automation tool:
+1. Android App - Java
+2. Outlook Addin - C#
+3. API - Python
+4. DB - Create Pic!
+
+5. Minecraft Mod - Just Link - Java
+6. School App - C#
+   
+
+
 ---
 ## Projects
 
