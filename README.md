@@ -39,14 +39,15 @@ From automating workflows to developing apps- I aim to build things that matter.
 ---
 ## Projects
 
-- 🎮 [**Minecraft Mod – Tech Expansion**](https://github.com/yourusername/tech-expansion)  
-  A mod adding automation and resource systems; downloaded over 30,000 times by the community.
-
-- 🛠️ **Military Automation Tools** *(private)*  
+- **Military Automation Tools** *(private)*  
   Custom systems developed during IDF service, including Excel/VSTO-based task runners and backend logic.
 
-- 📱 [**School Planner App**](https://github.com/yourusername/school-planner)  
+- [**School Planner App**](https://github.com/yourusername/school-planner)  
   Android app to help students manage homework, grades, and events. Built for personal use and deployed to peers.
 
-- ⚙️ [**Python Automation Scripts**](https://github.com/yourusername/sysmon-scripts)  
+- [**Python Automation Scripts**](https://github.com/yourusername/sysmon-scripts)  
   Handy tools for Linux servers — log rotation, monitoring, scheduling, backups.
+  
+- [**Minecraft Mod – Tech Expansion**](https://www.planetminecraft.com/mod/the-kwami-mod-miraculous-ladybug/)  
+  A mod adding automation and resource systems; downloaded over 32k times by the community.
+
