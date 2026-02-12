@@ -39,14 +39,21 @@ From automating workflows to developing apps- I aim to build things that matter.
 ---
 ## Projects
 
-- **Military Automation Tools** *(private)*  
-  Custom systems developed during IDF service, including Excel/VSTO-based task runners and backend logic.
+- **Military Automation Systems** *(private)*  
+  Custom internal distributed system, aimed at automating office communication processes. 
+  This system is still in active use today, serving daily users and significantly reducing manual workload.
+  *The system is composed of four major components:*
 
-- [**School Planner App**](https://github.com/yourusername/school-planner)  
-  Android app to help students manage homework, grades, and events. Built for personal use and deployed to peers.
+  1. *Android App -* Developed in Java, used to broadcast schedules with WhatsApp sync and SQLite data history. Designed a clean UI with custom components.
+  2. *Outlook Add-in -* C# VSTO Add-in enabling users to trigger backend workflows directly from their calendar. Customized the Office UI and added additional screens.
+  3. *Backend Web API -* Built a Flask-based Web API in Python. Deployed and maintained on a Red Hat Linux server. Used Pandas and complex SQL queries.
+  4. *Database -* Originally implemented with Microsoft SQL Server, later migrating to PostgreSQL for improved performance and managing large datasets. Deployed on a dedicated Windows Server with secure access controls.
 
-- [**Python Automation Scripts**](https://github.com/yourusername/sysmon-scripts)  
-  Handy tools for Linux servers — log rotation, monitoring, scheduling, backups.
+  
+
+- [**School Planner App**](https://github.com/Tal-Miron/students-exit-app)
+  Android app to digitize students exit approvals from school. Built and actively used by school for testing.
+  Integrated Google's Firebase NoSQL and JSON tree architecture for real-time data storage and synchronization.
   
 - [**Minecraft Mod – Tech Expansion**](https://www.planetminecraft.com/mod/the-kwami-mod-miraculous-ladybug/)  
   A mod adding automation and resource systems; downloaded over 32k times by the community.
