@@ -43,12 +43,17 @@ From automating workflows to developing apps- I aim to build things that matter.
   Custom internal distributed system, aimed at automating office communication processes. 
   This system is still in active use today, serving daily users and significantly reducing manual workload.
   *The system is composed of four major components:*
-
-  1. *Android App -* Developed in Java, used to broadcast schedules with WhatsApp sync and SQLite data history. Designed a clean UI with custom components.
-  2. *Outlook Add-in -* C# VSTO Add-in enabling users to trigger backend workflows directly from their calendar. Customized the Office UI and added additional screens.
-  3. *Backend Web API -* Built a Flask-based Web API in Python. Deployed and maintained on a Red Hat Linux server. Used Pandas and complex SQL queries.
+  1. *[**Android App - **](https://github.com/Tal-Miron/Whatsapp-sync-app) -* Developed in Java, used to broadcast schedules with WhatsApp sync and SQLite data history. Designed a clean UI with custom components.
+  2. [**Outlook Add-in - **](https://github.com/Tal-Miron/outlook-utils) C# VSTO Add-in enabling users to trigger backend workflows directly from their calendar. Customized the Office UI and added additional screens.
+  3. [**Backend Web API - **](https://github.com/Tal-Miron/LishcaAPI) Built a Flask-based Web API in Python. Deployed and maintained on a Red Hat Linux server. Used Pandas and complex SQL queries.
   4. *Database -* Originally implemented with Microsoft SQL Server, later migrating to PostgreSQL for improved performance and managing large datasets. Deployed on a dedicated Windows Server with secure access controls.
 
+
+Project architecture:
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Tal-Miron/assets/main/LishcaProjectArchitecture.png" alt="LishcaAPI Architecture" width="800">
+</p>
   
 
 - [**School Planner App**](https://github.com/Tal-Miron/students-exit-app)
